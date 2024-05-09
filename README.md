@@ -47,3 +47,4 @@ cat /path/to/your/index.html /path/to/your/footer.html > /path/to/your/temp2.htm
 tawa9.pdf rename to the page of you liking
 
 wkhtmltopdf --enable-local-file-access /path/to/your/temp2.html /path/to/your/tawa9.pdf
+# htmltopdf
